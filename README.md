@@ -32,16 +32,6 @@ CARAKA's backend is a comprehensive system encompassing various components to en
 3. Set up authentication API and database configurations.
 4. Deploy the Flask application for the predict API.
 
-## Usage
-
-Provide examples or instructions on how to use different features of the project.
-
-## Folder Structure
-
-Outline the structure of important project directories.
-
-
-
 ## Cloud Computing's Team
 
 |Name |Bangkit ID| University|
