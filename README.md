@@ -24,6 +24,8 @@ CARAKA's backend is a comprehensive system encompassing various components to en
 - Flask
 - Cloud SQL
 - Cloud Storage
+- Cloud Run
+- Express.js
 
 ## Setup
 
